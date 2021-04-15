@@ -1,0 +1,9 @@
+Vorwarnung:
+Für die Aufgabe GAME-2_4 habe ich nun 3 verschiedene Skripte.
+Dies liegt daran, dass ich mir bei dem erstellen von Objekten der Bubble Klasse, wie ich sie anwenden will und sie in den beiden Skripten GAME_2-4_Maul.py und Game_2-4_Maul.py anders bearbeitet worden sind.
+Die zwei Skripte Game-2_4_Maul.py und game-test.py haben die selben Bubble Objekte doch eine andere Struktur und haben einen etwas unterschiedlichen Stand.
+Ich müsste bei allen drei Skripten dennoch die ersten 9 Stickpunkte der Aufgabenstellung erledigt haben, doch mehr habe ich leider nicht.
+
+Einiges zum Design:
+Es ist in Spongebob Schwammkopf Stil mit dem Quallenfeld Hintergrund, den Bubberblasen, Spongebobs Hand als Cursor, Mrs.Puff's Tafel als Punkteanzeige, und das Schreien beim Bubberblasen Blasen von Taddäus.
+Ich wollte beim GameOver Bildschirm ein Bild von Taddäus am schreien benutzen und bei dem Pausen Bildschirm einen kleinen Spongebob und Patrick in die unteren Ecken anzeigen lassen, doch dies habe ich leider nicht geschafft.
